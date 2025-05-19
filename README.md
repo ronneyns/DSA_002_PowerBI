@@ -3,3 +3,5 @@ Curso "Microsoft Power BI Para Business Intelligence e Data Science" da Data Sci
 
 ---
 
+* Capítulo 02 - Primeiros Passos com o Power BI
+
