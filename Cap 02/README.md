@@ -16,5 +16,5 @@
 
 ### Resultado
 
-[Resultado](/Cap 02/LP 01.png)
+![Resultado](LP\ 01.png)
 
