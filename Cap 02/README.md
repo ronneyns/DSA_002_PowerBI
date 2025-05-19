@@ -16,5 +16,5 @@
 
 ### Resultado
 
-![Resultado](LP_01.png)
+![Resultado](<LP_01.png>)
 
